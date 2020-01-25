@@ -1,0 +1,19 @@
+{
+  "name": "warehouse-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "multer": "^1.4.2",
+    "mysql": "mysqljs/mysql"
+  }
+}
